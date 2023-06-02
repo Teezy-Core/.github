@@ -1,12 +1,11 @@
-## Hi there 👋
 
-<!--
+![Logo](https://media.discordapp.net/attachments/1020000303078199326/1114342182321655849/Teezy_Core_with_text.png)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Welcome to Teezy Core! 👋
+
+
+
+We specialize in creating top-notch scripts for FiveM, specifically tailored for QBCore and ESX frameworks. Our scripts are designed to enhance your gaming experience, whether you're looking for paid or free options.
+
+Join our community and discover a wide range of scripts that add immersive gameplay elements and improve server performance. We're constantly updating and expanding our offerings to keep your server fresh and exciting.
