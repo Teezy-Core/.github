@@ -1,5 +1,5 @@
 
-![Logo](https://media.discordapp.net/attachments/1020000303078199326/1114342182321655849/Teezy_Core_with_text.png)
+![Logo](https://i.imgur.com/6s82WUZ.png)
 
 
 # Welcome to Teezy Core! 👋
